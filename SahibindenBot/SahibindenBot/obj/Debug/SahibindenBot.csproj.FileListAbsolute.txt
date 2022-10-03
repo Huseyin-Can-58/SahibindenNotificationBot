@@ -1,0 +1,16 @@
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\bin\Debug\SahibindenBot.exe.config
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\bin\Debug\SahibindenBot.exe
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\bin\Debug\SahibindenBot.pdb
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\bin\Debug\MaterialSkin.dll
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\obj\Debug\SahibindenBot.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\obj\Debug\SahibindenBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\obj\Debug\SahibindenBot.Form1.resources
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\obj\Debug\SahibindenBot.Properties.Resources.resources
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\obj\Debug\SahibindenBot.csproj.GenerateResource.cache
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\obj\Debug\SahibindenBot.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\obj\Debug\SahibindenBot.csproj.CopyComplete
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\obj\Debug\SahibindenBot.exe
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\obj\Debug\SahibindenBot.pdb
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\bin\Debug\WebDriver.dll
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\obj\Debug\SahibindenBot.sure.resources
+C:\Users\Hüseyin\source\repos\SahibindenBot\SahibindenBot\obj\Debug\SahibindenBot.linkler.resources
